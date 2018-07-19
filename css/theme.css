@@ -639,7 +639,7 @@ img {
   opacity: 0.1;
 }
 [data-overlay="2"]:before {
-  opacity: 0.2;
+  opacity: 0.5;
 }
 [data-overlay="3"]:before {
   opacity: 0.5;
@@ -657,7 +657,7 @@ img {
   opacity: 0.7;
 }
 [data-overlay="8"]:before {
-  opacity: 0.8;
+  opacity: 0.5;
 }
 [data-overlay="9"]:before {
   opacity: 0.9;
